@@ -1,0 +1,4 @@
+﻿  test.cpp
+c:\users\serhan\documents\visual studio 2015\projects\ödev2\ödev2\test.cpp(27): error C2440: '=': cannot convert from 'int' to 'İslem *'
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(356,5): error MSB6006: "CL.exe" exited with code 2.
+  c:\users\serhan\documents\visual studio 2015\projects\ödev2\ödev2\test.cpp(27): note: Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
